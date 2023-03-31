@@ -1,0 +1,24 @@
+{
+    "name": "game4automation.base",
+    "rootNamespace": "",
+    "references": [
+        "game4automation.spacenavigator",
+        "Cinemachine",
+        "Unity.Recorder.Base",
+        "Unity.Recorder.Editor",
+        "Unity.Postprocessing.Runtime",
+        "NaughtyAttributes.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Stadia",
+        "Switch"
+    ],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

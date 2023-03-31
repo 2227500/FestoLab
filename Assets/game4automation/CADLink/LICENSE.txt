@@ -1,0 +1,17 @@
+CADLink - CAD Interface for Unity
+Copyright 2019 in2sight GmbH (https://game4automation.com)
+
+
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+    
+A)   NaughtyAttributes, copyright Denis Rizov,
+     which is available under MIT license.
+     For details see https://github.com/dbrizov/NaughtyAttributes
+     
+B)   thremf, copyright IxMilia,
+     which is available under MIT license.
+     For details see  https://github.com/ixmilia/threemf
+     
+C)   Ionic.Zip, copyright Peter Dolkens,
+     which is available under Microsoft Public License (Ms-PL).
+     For details see https://www.nuget.org/packages/Ionic.Zip/
